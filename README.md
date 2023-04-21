@@ -862,7 +862,7 @@ You will upload the four files that you changed to Gradescope on the
 assignment:
 
 - `src/main/scala/components/alucontrol.scala`
-- `src/main/scala/components/nextpc.scala`
+- `src/main/scala/components/controltransferunit.scala`
 - `src/main/scala/components/control.scala`
 - `src/main/scala/single-cycle/cpu.scala`
 
